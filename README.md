@@ -69,21 +69,20 @@ Let's connect and create something impactful! 🚀
 
 ---
 
-## 🚀 Projects Highlight:
-- **MYWard** – A civic mobile platform for panchayat governance  
-  _Tech: Django, React Native, PostgreSQL, Push Notifications_
 
-- **KL Electronics** – A full-stack e-commerce platform  
-  _Tech: Django, React, Celery, REST, PostgreSQL, TypeScript_
+### 🏆 Achievements
+- 🏅 2+ Years Freelance Experience  
+- 🚀 Built 6+ Scalable Projects  
+- 💼 Co-founded MYWard (Startup)  
+- 🧠 Studying AI @ Vistula University  
+- 👨‍🏫 Mentored Junior Devs  
+- 🌐 Launched Live Products  
 
-- **TuitionOS** – ERP for Tuition Management with dashboards, payments, attendance  
-  _Tech: Django, Tailwind, jsPDF, Framer Motion, Chart.js_
-
-- **Wechat** – Chat application backend with media & real-time communication  
-  _Tech: Django, WebSockets, Redis, PostgreSQL_
-
-- **Husly EduTech** – Affiliate & course selling platform with real-time stats  
-  _Tech: FastAPI, PostgreSQL, Cashfree, React, Tailwind_
+### 🎯 Goals
+- Contribute to Open Source
+- Master AI Engineering
+- Build SaaS Tools
+- Speak at Dev Conferences
 
 ---
 ## 📊 GitHub Stats:
